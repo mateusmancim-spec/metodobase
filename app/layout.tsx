@@ -13,21 +13,8 @@ export const metadata: Metadata = {
     "Método simples e comprovado para emagrecer sem dietas radicais ou treinos extremos. Receitas fáceis e treinos de 20-30 minutos.",
   generator: "v0.app",
   icons: {
-    icon: [
-      {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
-    ],
-    apple: "/apple-icon.png",
+    icon: "/base.jpg",
+    apple: "/base.jpg",
   },
 }
 
